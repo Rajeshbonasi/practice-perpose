@@ -1,0 +1,9 @@
+Git init
+git clone <HTTPS>
+git branch
+touch file.name
+git add . (add all files from staging area )
+git commit -m "new commit added"
+git push -u origin main
+
+
