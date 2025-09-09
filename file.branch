@@ -1,0 +1,7 @@
+in this file we need to add commands Req Branch
+
+git branch feature(branch name)
+git checkout feature
+if you want to create any file and make changes here you can do that.
+
+
